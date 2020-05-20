@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="api_key">973086a14eaeb40eacd4912ffbbf3f59</string>
+    <string name="contentDesc">This is a image</string>
+    <string name="title">Title: </string>
+    <string name="overview">Overview</string>
+    <string name="title_desc">This is a title</string>
+    <string name="rate_text">"Rate: "</string>
+    <string name="rate">This is a rate</string>
+    <string name="date">This is a release date</string>
+</resources>
